@@ -54,7 +54,6 @@ h6 {
 #header #logo h1 a, #header #logo h1 a:hover {
   color: #000;
   padding-left: 10px;
-  border-left: 4px solid grey;
 }
 #nav-menu-container {
   float: right;
@@ -82,7 +81,7 @@ h6 {
   color: black;
 }
 .nav-menu li:hover > a, .nav-menu > .menu-active > a {
-  color: #18d26e;
+  color: brown;
 }
 .nav-menu a {
   padding: 0 8px 10px 8px;
